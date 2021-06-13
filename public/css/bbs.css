@@ -1,0 +1,68 @@
+body {
+    font-family: Helvetica, '游ゴシック', 'Yu Gothic', YuGothic, HiraKakuProN-W3, 'メイリオ', Meiryo, sans-serif;
+}
+
+h1 {
+    margin: 3vw;
+    text-align: center;
+    font-weight: 600;
+}
+
+.form-group label {
+    font-size: 1vw;
+    font-weight: 600;
+}
+
+.error_message {
+    color: red;
+}
+
+.usernameWrapper, .messageWrapper {
+    text-align: center;
+    margin: 5vw 15vw;
+}
+
+.btnWrapper {
+    text-align: center;
+}
+
+.messageRow {
+    margin: 1vw 10vw;
+    box-shadow: 0 0 8px gray;
+    border-radius: 10px;
+    padding: 1vw;
+}
+
+.user_id {
+    font-size: 2vw;
+}
+
+.user_name {
+    width: 30vw;
+    display: initial;
+    float: left;
+}
+
+.user_message {
+    float: left;
+}
+
+.timestanp {
+    text-align: right;
+}
+
+.user_delete {
+    text-align: right;
+}
+
+.wrapperTop {
+    text-align: center;
+    margin: 5vw;
+}
+
+.user_text {
+    width: 50vw;
+    display: initial;
+    height: 20vw;
+    padding: 2vw;
+}
